@@ -66,7 +66,7 @@
     "@stdlib/ndarray-data-buffer": "^0.2.3",
     "@stdlib/ndarray-dtype": "^0.2.3",
     "@stdlib/ndarray-empty": "^0.3.1",
-    "@stdlib/ndarray-from-scalar": "^0.3.1",
+    "@stdlib/ndarray-tensor0d-float64": "github:stdlib-js/ndarray-tensor0d-float64#main",
     "@stdlib/ndarray-to-array": "^0.2.2",
     "@stdlib/random-uniform": "^0.1.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
